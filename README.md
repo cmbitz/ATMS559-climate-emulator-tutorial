@@ -7,7 +7,7 @@ but beware that some of the discussion was out of date with the code and figures
 
 # Get on the NCAR Jupyter Hub. I recommend using Chrome
 
-[jupyterhub.hpc.ucar.edu/stable/hub/home](https://jupyterhub.hpc.ucar.edu/stable/hub/home){:target="_blank"} 
+[jupyterhub.hpc.ucar.edu/stable/hub/home](https://jupyterhub.hpc.ucar.edu/stable/hub/home) 
 
 If it is your first time using the NCAR hub, watch my video on the class canvas website first. See https://canvas.uw.edu/courses/1723161/pages/introductory-videos
 
