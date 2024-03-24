@@ -1,9 +1,9 @@
 # ATMS559-climate-emulator-tutorial
 A tutorial for exploring emulators of CMIP-class Earth System Models.
 
-To read the original tutorial go to, but beware that some of the discussion was out of date with the code and figures, so it could set you off on the wrong track:
-
+To read the original tutorial go to, 
 [climate_emulator_tutorial.ipynb](https://nbviewer.org/github/blutjens/climate-emulator-tutorial/blob/main/climate_emulator_tutorial.ipynb)
+but beware that some of the discussion was out of date with the code and figures, so it could set you off on the wrong track.
 
 # Get on the NCAR Jupyter Hub. I recommend using Chrome
 
@@ -17,7 +17,7 @@ If it is your first time using the NCAR hub, watch my video on the class canvas 
 I recommend putting this code either in your home or work space on NCAR's compute. For example, if you want to use your work space first go to that directory using the cd command from a terminal. If you want to use your own conda or miniconda install, skip the module load conda step.
 
 cd /glade/work/$USER
-git clone git@github.com:cmbitz/ATMS559-climate-emulator-tutorial.git
+git clone https://github.com/cmbitz/ATMS559-climate-emulator-tutorial.git
 
 cd /glade/work/$USER/ATMS559-climate-emulator-tutorial 
 module load conda 
@@ -29,7 +29,7 @@ python -m ipykernel install --user --name=emcli
 ```
 
 # Start the notebook
-Click on the notebook ATMS559-climate-emulator-tutorial.ipynb
+Click on the notebook ATMS559-climate-emulator-tutorial.ipynb the directory tree on the left of the Hub
 
 # Reference
 ```
