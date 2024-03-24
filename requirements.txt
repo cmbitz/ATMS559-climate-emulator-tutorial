@@ -1,0 +1,20 @@
+# status 11/2023: tested and works.
+numpy
+matplotlib
+tqdm
+cartopy
+xarray
+notebook
+netcdf4
+dask
+bottleneck # ERROR: Could not find a version that satisfies the requirement bottleneneck (from versions: none) ERROR: No matching distribution found for bottleneneck
+torch # deep learning library. Will install CUDA if GPU is available. Might take a while >1GB packages
+torchvision
+ipywidgets
+hvplot # to create interactive plots nicely integrated with xarray
+jupyter_bokeh # to make hvplot run
+geoviews # to create geospatial plots in hvplot
+scikit-learn # for linear regression model and some data preprocessing
+regionmask # for plotting regional boundaries
+streamlit # for webdemo
+xskillscore # for error metrics on xarrays
