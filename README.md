@@ -50,7 +50,7 @@ asked.
 cd /glade/work/$USER/ATMS559-climate-emulator-tutorial 
 module load conda 
 conda create --name emcli 
-conda activate 
+conda activate emcli
 pip install -r requirements.txt 
 pip install -e . 
 python -m ipykernel install --user --name=emcli
